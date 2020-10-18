@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/d5rKgK1PDtt1kz93Ni/giphy.gif" width="50px">
 
 <!--
 **Carolys/Carolys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
