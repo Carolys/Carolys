@@ -1,5 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/d5rKgK1PDtt1kz93Ni/giphy.gif" width="50px">
-
+### Hi, I'm Carol! <img src="https://media.giphy.com/media/d5rKgK1PDtt1kz93Ni/giphy.gif" width="50px">
+I'm Carolina Yasue, a Mobile Developer from Brasil!
 <!--
 **Carolys/Carolys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Xamarin, React and Python
+- 💬 You can ask me about anything
