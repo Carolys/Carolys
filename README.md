@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Xamarin, React and Python
 - 💬 You can ask me about anything 😊
-- 📫 You can reach me on LinkedIn
