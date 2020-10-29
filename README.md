@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like drawing, cats, bubble tea and programming with cute things.
 -->
 
-- 🌱 I’m currently learning Xamarin, React and Python
+- 🌱 I’m currently learning React and some web stuffs.
+- 🤔 I’m looking for help with web development.
 - 💬 You can ask me about anything 😊
+- 📫 How to reach me: u can contact me by email: carolinamyasue@gmail.com
+- ⚡ Fun fact: I like drawing, cats, dogs, bubble tea, brownies and programming with cute things.
