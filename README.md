@@ -6,7 +6,7 @@ I'm Carolina Yasue, a Mobile Developer from Brasil!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning React and some web stuffs.
+- 🌱 I’m currently learning Python, React and some web stuffs.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with web development.
 - 💬 Ask me about ...
